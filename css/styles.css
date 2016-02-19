@@ -1,0 +1,238 @@
+body{
+    font-family: "微软雅黑","Helvetica Neue",Helvetica,Arial,sans-serif;
+    min-width: 200px;
+    font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+   font-family: "微软雅黑","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.navbar-inverse{
+    background: #EBB5CC;
+    min-height: 52px;
+    border: 0px solid transparent;
+
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    color: #fff;
+    background: #EBB5CC;
+    box-shadow: inset 0 0px 0px rgba(0,0,0,0);
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+ .navbar-inverse .navbar-nav > .open > a:hover,
+ .navbar-inverse .navbar-nav > .open > a:focus {
+    color: #FFF;
+    background: #EBB5CC;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a,
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+    background-color: #EBB5CC;
+    color:#FFF;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
+    color:#FFF;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+    color: rgba(255, 255, 255, 0.8);
+    text-shadow: 0 0px 0 rgba(0,0,0,0);
+}
+
+/*.navbar-fixed-top {
+    border-width: 0 0 0px;
+}*/
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover {
+    background-color: #EBB5CC;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #EBB5CC;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #EBB5CC;
+}
+
+
+
+.navbar-inverse .navbar-brand {
+    color: #FFF;;
+}
+.navcontrol{
+    border-radius:0px;
+}
+
+.jumbotron{
+    padding: 0px 30px 0px 30px;
+
+    }
+
+.jumbotron1{
+    margin-top:-20px;
+    background-color: #EBB5CC;
+}
+
+.jumbotron4{
+    padding: 0;
+    margin-bottom: -10px;
+}
+
+.picside{
+    width: 100%;
+    margin: auto;
+}
+
+.abby{
+   margin-top: 150px;
+    padding: auto;
+    margin-bottom: 50px;
+}
+
+.jumbotron2{
+    margin-top:-30px;
+    background-color:#FFF;
+    margin-bottom: 60px;
+    min-height: 500px;
+    padding-top: 100px;
+}
+
+.rowcontent{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 20px;
+}
+
+.rowcontent p{
+    font-size: 25px;
+    font-family: "微软雅黑";
+    font-weight: 200;
+}
+
+.rowcontent span{
+    font-weight: 900;
+    font-size: 40px;
+    font-family: Helvetica；
+}
+
+.picwall{
+    margin-top: -20px;
+    display: block;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.picwall img{
+    width: 120px;
+    margin: 10px;
+
+}
+
+.row-footer{
+    background-color:#EFEFEF;
+}
+
+.intropic img{
+    width: 200px;
+}
+
+.jumbotron3{
+    background-color: #EBB5CC;
+    min-height: 500px;
+
+}
+
+footer a{
+    color: black;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: dimgrey;
+      text-decoration: none;
+}
+.introcontent1{
+        border-top: 1px solid #D0D0D0;
+        padding-top: 50px;
+        padding-bottom: 30px;
+        padding-left: 30px;
+        min-height: 200px;
+        padding-right: 30px;
+}
+
+.introcontent{
+        border-top: 0px solid #D0D0D0;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 30px;
+        min-height: 200px;
+        padding-right: 30px;
+}
+
+.textintro{
+    margin-top: 50px;
+}
+
+
+footer{
+    margin-top: 50px;
+
+    padding-top: 10px;
+}
+
+footer li{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.footpic{
+    margin-top: 25px;
+    width: 200px;
+    text-align: center;
+}
+
+.footerside{
+    margin-top: 30px;
+}
+
+.social ul li{
+    display: inline;
+}
+
+.social ul li img{
+    width: 50px;
+}
+
+.social{
+    margin-top: 10px;
+}
+
+.lyric{
+    padding-bottom: 30px;
+    padding-top: 120px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.lyric p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+}
+
+#lyriclast{
+    font-size: 20px;
+    margin-top: 30px;
+}
